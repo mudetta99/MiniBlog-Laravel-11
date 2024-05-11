@@ -1,0 +1,290 @@
+[2024-05-08 14:31:53] local.ERROR: syntax error, unexpected token "}", expecting "," or ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \",\" or \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:31:59] local.ERROR: syntax error, unexpected token "}", expecting "," or ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \",\" or \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:32:31] local.ERROR: syntax error, unexpected token "}", expecting "," or ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \",\" or \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:33:10] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:19)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:33:31] local.ERROR: Cannot redeclare App\Models\Post::user() {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare App\\Models\\Post::user() at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:21)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:33:47] local.ERROR: syntax error, unexpected identifier "publi", expecting "function" or "const" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected identifier \"publi\", expecting \"function\" or \"const\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:21)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:33:59] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:34:06] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:34:17] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:34:31] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:34:34] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 14:35:31] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Post.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:00:43] local.ERROR: syntax error, unexpected token "protected", expecting variable {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"protected\", expecting variable at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:01:51] local.ERROR: syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting identifier or variable or \"{\" or \"$\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:19)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:01:57] local.ERROR: syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting identifier or variable or \"{\" or \"$\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:19)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:02:05] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:19)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:03:22] local.ERROR: syntax error, unexpected token "}" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:22)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:03:32] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:03:36] local.ERROR: syntax error, unexpected token "}", expecting ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Comment.php:24)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 15:04:25] local.ERROR: Command "make:mogration" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:mogration\" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php:704)
+[stacktrace]
+#0 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(260): Symfony\\Component\\Console\\Application->find('make:mogration')
+#1 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(169): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1187): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#5 {main}
+"} 
+[2024-05-08 21:22:04] local.ERROR: syntax error, unexpected token "}", expecting "," or ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \",\" or \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Reply.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 21:22:13] local.ERROR: syntax error, unexpected token "}", expecting "," or ";" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\", expecting \",\" or \";\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Reply.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 21:22:56] local.ERROR: syntax error, unexpected token "}" {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected token \"}\" at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\app\\Models\\Reply.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-08 21:25:24] local.ERROR: Command "migration" is not defined.
+
+Did you mean one of these?
+    make:migration
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"migration\" is not defined.
+
+Did you mean one of these?
+    make:migration
+    migrate
+    migrate:fresh
+    migrate:install
+    migrate:refresh
+    migrate:reset
+    migrate:rollback
+    migrate:status at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php:704)
+[stacktrace]
+#0 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(260): Symfony\\Component\\Console\\Application->find('migration')
+#1 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(169): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1187): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#5 {main}
+"} 
+[2024-05-08 21:25:42] local.ERROR: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'MiniBlog' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'MiniBlog' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name) at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:813)
+[stacktrace]
+#0 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(967): Illuminate\\Database\\Connection->runQueryCallback('select table_na...', Array, Object(Closure))
+#1 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(946): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'select table_na...', Array, Object(Closure))
+#2 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(769): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'select table_na...', Array, Object(Closure))
+#3 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(398): Illuminate\\Database\\Connection->run('select table_na...', Array, Object(Closure))
+#4 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(385): Illuminate\\Database\\Connection->select('select table_na...', Array, false)
+#5 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\MySqlBuilder.php(41): Illuminate\\Database\\Connection->selectFromWriteConnection('select table_na...')
+#6 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(147): Illuminate\\Database\\Schema\\MySqlBuilder->getTables(false)
+#7 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\DatabaseMigrationRepository.php(184): Illuminate\\Database\\Schema\\Builder->hasTable('migrations')
+#8 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(689): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#9 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(164): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#10 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(304): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}(1)
+#11 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(164): retry(1, Object(Closure), 0, Object(Closure))
+#12 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(140): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->repositoryExists()
+#13 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(110): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->prepareDatabase()
+#14 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(622): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}()
+#15 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(109): Illuminate\\Database\\Migrations\\Migrator->usingConnection(NULL, Object(Closure))
+#16 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(88): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->runMigrations()
+#17 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#18 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#19 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#20 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#21 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#22 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(212): Illuminate\\Container\\Container->call(Array)
+#23 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#24 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(181): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#25 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(1049): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#26 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(318): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\MigrateCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#27 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(169): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#28 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#29 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1187): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#31 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php:65)
+[stacktrace]
+#0 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(65): PDO->__construct('mysql:host=127....', 'root', Object(SensitiveParameterValue), Array)
+#1 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(83): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(48): Illuminate\\Database\\Connectors\\Connector->tryAgainIfCausedByLostConnection(Object(PDOException), 'mysql:host=127....', 'root', '', Array)
+#3 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=127....', Array, Array)
+#4 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\ConnectionFactory.php(185): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#5 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#6 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(1219): call_user_func(Object(Closure))
+#7 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(512): Illuminate\\Database\\Connection->getPdo()
+#8 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(407): Illuminate\\Database\\Connection->getPdoForSelect(false)
+#9 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(800): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select table_na...', Array)
+#10 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(967): Illuminate\\Database\\Connection->runQueryCallback('select table_na...', Array, Object(Closure))
+#11 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(946): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection(Object(Illuminate\\Database\\QueryException), 'select table_na...', Array, Object(Closure))
+#12 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(769): Illuminate\\Database\\Connection->handleQueryException(Object(Illuminate\\Database\\QueryException), 'select table_na...', Array, Object(Closure))
+#13 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(398): Illuminate\\Database\\Connection->run('select table_na...', Array, Object(Closure))
+#14 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(385): Illuminate\\Database\\Connection->select('select table_na...', Array, false)
+#15 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\MySqlBuilder.php(41): Illuminate\\Database\\Connection->selectFromWriteConnection('select table_na...')
+#16 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(147): Illuminate\\Database\\Schema\\MySqlBuilder->getTables(false)
+#17 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\DatabaseMigrationRepository.php(184): Illuminate\\Database\\Schema\\Builder->hasTable('migrations')
+#18 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(689): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#19 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(164): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#20 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(304): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}(1)
+#21 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(164): retry(1, Object(Closure), 0, Object(Closure))
+#22 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(140): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->repositoryExists()
+#23 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(110): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->prepareDatabase()
+#24 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(622): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}()
+#25 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(109): Illuminate\\Database\\Migrations\\Migrator->usingConnection(NULL, Object(Closure))
+#26 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(88): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->runMigrations()
+#27 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#28 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#29 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#30 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#31 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(662): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#32 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(212): Illuminate\\Container\\Container->call(Array)
+#33 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Command\\Command.php(279): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#34 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(181): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#35 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(1049): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#36 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(318): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\MigrateCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(169): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1187): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#41 {main}
+"} 
+[2024-05-08 21:27:01] local.ERROR: There are no commands defined in the "api" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"api\" namespace. at E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php:638)
+[stacktrace]
+#0 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(687): Symfony\\Component\\Console\\Application->findNamespace('api')
+#1 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(260): Symfony\\Component\\Console\\Application->find('api:install')
+#2 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\symfony\\console\\Application.php(169): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1187): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 E:\\MuworkSpace\\PHP\\Laravel\\Mini-Blog\\artisan(13): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#6 {main}
+"} 
