@@ -7,9 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-
-Sure, here's a sample documentation outline for your project:
-
+<hr>
 MiniBlog API Project
 Introduction
 MiniBlog is a RESTful API for managing users, posts, comments, and replies. It provides endpoints for user registration, authentication, CRUD operations on posts, comments, and replies, and retrieving user information.
